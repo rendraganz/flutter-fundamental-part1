@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(
-            255, 15, 18, 191)),
+            255, 198, 109, 177)),
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
@@ -109,6 +109,9 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
+            ), Text(
+              'Muhammad Rendra Irawan',
+              style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold, color: Colors.black),
             ),
           ],
         ),
