@@ -4,10 +4,6 @@ A new Flutter project.
 
 ![Screenshot hello_world](images/01.png)
 
-<<<<<<< HEAD
-
-
-
 
 # PRAKTIKUM 1: Membuat Project Flutter Baru
 
@@ -28,4 +24,3 @@ Langkah 4:
 Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "Your Flutter Project is ready!" artinya Anda telah berhasil membuat project Flutter baru.
 
 ![Screenshot hello_world](images/prak1_04.png)
- 12e3a9c (update)
