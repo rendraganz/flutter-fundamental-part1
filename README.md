@@ -51,3 +51,12 @@ Screenshot praktik membuat repository GitHub
 
 ![Screenshot hello_world](images/01.png)
 
+# PRAKTIKUM 4: Menerapkan Widget Dasar
+
+Text widget
+
+![Screenshot hello_world](images/prak4_01.png)
+
+Image Widget
+
+![Screenshot hello_world](images/prak4_02.png)
