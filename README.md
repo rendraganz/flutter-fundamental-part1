@@ -26,3 +26,11 @@ Langkah 4:
 Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Artinya Anda telah berhasil membuat project Flutter baru.
 
 ![Screenshot hello_world](images/prak1_04.png)
+
+# PRAKTIKUM 2: Menghubungkan Perangkat Android atau Emulator
+
+Screenshot hasil menghubungkan perangkat android atau emulator menggunakan android studio:
+
+![Screenshot hello_world](images/prak2_01.png)
+![Screenshot hello_world](images/prak2_02.png)
+![Screenshot hello_world](images/prak2_03.png)
