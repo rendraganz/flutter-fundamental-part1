@@ -29,8 +29,16 @@ Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti beri
 
 # PRAKTIKUM 2: Menghubungkan Perangkat Android atau Emulator
 
-Screenshot hasil menghubungkan perangkat android atau emulator menggunakan android studio:
+Screenshot hasil menghubungkan perangkat android menggunakan mirroring dengan android studio:
+
+Memilih perangkat android yang dipakai.
 
 ![Screenshot hello_world](images/prak2_01.png)
+
+Tampilan saat tersambung.
+
 ![Screenshot hello_world](images/prak2_02.png)
+
+Tampilan saat membuka aplikasi project flutternya.
+
 ![Screenshot hello_world](images/prak2_03.png)
