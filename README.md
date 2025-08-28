@@ -60,3 +60,47 @@ Text widget
 Image Widget
 
 ![Screenshot hello_world](images/prak4_02.png)
+
+# PRAKTIKUM 5: Menerapkan Widget Material Design dan iOS Cupertino
+
+Langkah 1: Cupertino Button dan Loading Bar
+Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+
+![Screenshot hello_world](images/prak5_cupertino.png)
+
+Langkah 2: Floating Action Button (FAB)
+Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
+
+Buat file di basic_widgets > fab_widget.dart. Import stateless widget dari material. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
+
+![Screenshot hello_world](images/prak5_fab_widget.png)
+
+Langkah 3: Scaffold Widget
+Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
+
+Ubah isi kode main.dart seperti berikut.
+
+![Screenshot hello_world](images/prak5_scaffold_01.png)
+![Screenshot hello_world](images/prak5_scaffold_02.png)
+
+
+Langkah 4: Dialog Widget
+Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
+
+Ubah isi kode main.dart seperti berikut.
+
+![Screenshot hello_world](images/prak5_dialog_01.png)
+![Screenshot hello_world](images/prak5_dialog_02.png)
+
+Langkah 5: Input dan Selection Widget
+Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
+
+Contoh penggunaan TextField widget adalah sebagai berikut:
+
+![Screenshot hello_world](images/prak5_input_selection.png)
+
+Langkah 6: Date and Time Pickers
+Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
+
+![Screenshot hello_world](images/prak5_datetime_01.png)
+![Screenshot hello_world](images/prak5_datetime_02.png)
