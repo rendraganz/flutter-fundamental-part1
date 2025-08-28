@@ -42,3 +42,12 @@ Tampilan saat tersambung.
 Tampilan saat membuka aplikasi project flutternya.
 
 ![Screenshot hello_world](images/prak2_03.png)
+
+# PRAKTIKUM 3: Membuat Repository GitHub dan Laporan Praktikum
+
+Screenshot praktik membuat repository GitHub
+
+![Screenshot hello_world](images/prak3_01.png)
+
+![Screenshot hello_world](images/01.png)
+
